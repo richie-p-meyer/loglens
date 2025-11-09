@@ -113,7 +113,7 @@ loglens/
 
 ---
 
-##  Future Improvements
+##  **Future Improvements**
 
 -Add structured JSON output for API/automation usage. 
 -Add mini web UI for interactive filtering. 
@@ -124,7 +124,7 @@ loglens/
 
 ---
 
-##  About the Author — Richard Wilders
+##  **About the Author — Richard Wilders**
 
 -Marine Corps veteran (Afghanistan deployment — mission-critical language ops). 
 -Background in data science + distributed system debugging. 
