@@ -111,3 +111,24 @@ loglens/
 │   ├── healthy.jsonl
 │   └── failing.jsonl
 
+---
+
+##  **Future Improvements**
+
+-Add structured JSON output for API/automation usage. 
+-Add mini web UI for interactive filtering. 
+-Add correlation by request_id across services. 
+-Add Grafana-style ASCII sparkline visualizations. 
+-Add noise suppression for noisy INFO logs. 
+-Allow reading rotated log directories. 
+
+---
+
+##  **About the Author — Richard Wilders**
+
+-Marine Corps veteran (Afghanistan deployment — mission-critical language ops). 
+-Background in data science + distributed system debugging. 
+-Reliability-minded engineer focused on SRE/DevOps. 
+-Python + SQL + observability enthusiast. 
+-Completed ten 10-day Vipassana meditation courses — stays calm during incidents. 
+-Based in Reno/Sparks, NV. 
